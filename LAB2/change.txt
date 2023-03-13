@@ -1,0 +1,15 @@
+超强小技巧：
+Regular expression syntax reference | IntelliJ IDEA Documentation
+
+
+匹配所有数字开头跟空格
+
+^\s*\d+ 
+  
+^ Matches the beginning of input.
+\s Matches any white space including space, tab, form-feed, and so on. Equivalent to [ \f\n\r\t\v].
+\d Matches a digit character. Equivalent to [0-9].
++ Matches the preceding character one or more times. For example, "zo+" matches zoo but not z.
+* Matches the preceding character zero or more times. For example, "zo*" matches either z or zoo.
+
+然后 ctrl+alt+i 完成整理
