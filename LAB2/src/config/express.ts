@@ -11,5 +11,6 @@ app.use((req, res, next) => {
     next();
     });
     app.use( bodyParser.json() );
+    require('../app/routes/user.server.routes.js')(app);
     return app;
 };

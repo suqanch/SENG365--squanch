@@ -1,2 +1,333 @@
 2023-03-13 13:47:11:4711 [32minfo[39m: [32mSuccessfully connected to database[39m
 2023-03-13 13:47:11:4711 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-14 13:24:16:2416 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-14 13:24:58:2458 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-14 13:24:58:2458 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-14 13:28:19:2819 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-14 13:29:07:297 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-14 14:54:10:5410 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-14 14:54:10:5410 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-14 14:54:13:5413 [35mhttp[39m: [35mGET all users[39m
+2023-03-14 14:54:13:5413 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-14 15:28:32:2832 [35mhttp[39m: [35mGET all users[39m
+2023-03-14 15:28:32:2832 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-14 16:44:02:442 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-14 16:44:02:442 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 10:49:45:4945 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 10:49:45:4945 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 10:49:48:4948 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:49:48:4948 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:50:44:5044 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:50:44:5044 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:50:51:5051 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:50:51:5051 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:52:56:5256 [35mhttp[39m: [35mGET all users[39m
+2023-03-15 10:52:56:5256 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-15 10:54:06:546 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:54:06:546 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:55:11:5511 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:55:11:5511 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:56:01:561 [35mhttp[39m: [35mGET single user id: 2449[39m
+2023-03-15 10:56:01:561 [32minfo[39m: [32mGetting user 2449 from the database[39m
+2023-03-15 10:56:26:5626 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 10:56:26:5626 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 10:56:37:5637 [35mhttp[39m: [35mGET single user id: 2449[39m
+2023-03-15 10:56:37:5637 [32minfo[39m: [32m2449[39m
+2023-03-15 10:56:37:5637 [32minfo[39m: [32mGetting user 2449 from the database[39m
+2023-03-15 10:56:46:5646 [35mhttp[39m: [35mGET single user id: 241[39m
+2023-03-15 10:56:46:5646 [32minfo[39m: [32m241[39m
+2023-03-15 10:56:46:5646 [32minfo[39m: [32mGetting user 241 from the database[39m
+2023-03-15 10:57:16:5716 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:57:16:5716 [32minfo[39m: [32m24[39m
+2023-03-15 10:57:16:5716 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:58:23:5823 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:58:23:5823 [32minfo[39m: [32m24[39m
+2023-03-15 10:58:23:5823 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 10:58:27:5827 [35mhttp[39m: [35mGET single user id: 24[39m
+2023-03-15 10:58:27:5827 [32minfo[39m: [32m24[39m
+2023-03-15 10:58:27:5827 [32minfo[39m: [32mGetting user 24 from the database[39m
+2023-03-15 11:00:30:030 [35mhttp[39m: [35mGET single user id: 1[39m
+2023-03-15 11:00:30:030 [32minfo[39m: [32m1[39m
+2023-03-15 11:00:30:030 [32minfo[39m: [32mGetting user 1 from the database[39m
+2023-03-15 11:00:37:037 [35mhttp[39m: [35mGET single user id: 49[39m
+2023-03-15 11:00:37:037 [32minfo[39m: [32m49[39m
+2023-03-15 11:00:37:037 [32minfo[39m: [32mGetting user 49 from the database[39m
+2023-03-15 11:00:46:046 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:00:46:046 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:00:46:046 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:03:28:328 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:03:28:328 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:05:50:550 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:05:50:550 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:05:50:550 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:05:50:550 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-15 11:05:50:550 [32minfo[39m: [32min controller[object Object][39m
+2023-03-15 11:14:41:1441 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:14:41:1441 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:14:46:1446 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:14:46:1446 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:14:46:1446 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:14:46:1446 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-15 11:14:46:1446 [32minfo[39m: [32min controller[object Object][39m
+2023-03-15 11:15:23:1523 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:15:23:1523 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:15:28:1528 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:15:28:1528 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:15:28:1528 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:17:27:1727 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:17:27:1727 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:17:41:1741 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:17:41:1741 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:17:41:1741 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:20:12:2012 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:20:12:2012 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:20:17:2017 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:20:17:2017 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:20:17:2017 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:20:20:2020 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-15 11:36:38:3638 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:36:38:3638 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:36:47:3647 [35mhttp[39m: [35mGET all users[39m
+2023-03-15 11:36:47:3647 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-15 11:37:57:3757 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-15 11:38:47:3847 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:38:47:3847 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:38:47:3847 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:38:47:3847 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:38:47:3847 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:41:25:4125 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:41:25:4125 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:41:28:4128 [35mhttp[39m: [35mGET single user id: 11969443[39m
+2023-03-15 11:41:28:4128 [32minfo[39m: [32m11969443[39m
+2023-03-15 11:41:28:4128 [32minfo[39m: [32mGetting user 11969443 from the database[39m
+2023-03-15 11:41:28:4128 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-15 11:41:28:4128 [32minfo[39m: [32min controller[object Object][39m
+2023-03-15 11:44:05:445 [35mhttp[39m: [35mGET all users[39m
+2023-03-15 11:44:05:445 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-15 11:44:05:445 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-15 11:44:54:4454 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-15 11:44:54:4454 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-15 11:44:55:4455 [35mhttp[39m: [35mGET all users[39m
+2023-03-15 11:44:55:4455 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-16 10:52:49:5249 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 10:52:49:5249 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:36:47:3647 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:36:47:3647 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:38:58:3858 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:38:58:3858 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:40:18:4018 [35mhttp[39m: [35mPUT update user id: 1[39m
+2023-03-16 14:40:18:4018 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:42:17:4217 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:42:17:4217 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:42:39:4239 [35mhttp[39m: [35mPUT update user id: 1. username change to updated[39m
+2023-03-16 14:42:39:4239 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:44:57:4457 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:44:57:4457 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:44:59:4459 [35mhttp[39m: [35mPUT update user id: 1. username change to updated[39m
+2023-03-16 14:44:59:4459 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:46:45:4645 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:46:45:4645 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:46:52:4652 [35mhttp[39m: [35mPUT update user id: 1. username change to updated[39m
+2023-03-16 14:46:52:4652 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:48:23:4823 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:48:23:4823 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:48:28:4828 [35mhttp[39m: [35mPUT update user id: 1. username change to updated[39m
+2023-03-16 14:48:28:4828 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:52:40:5240 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:52:40:5240 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:52:42:5242 [35mhttp[39m: [35mPUT update user id: 1. username change to updated[39m
+2023-03-16 14:52:42:5242 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:52:42:5242 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-16 14:52:42:5242 [32minfo[39m: [32min controller[object Object][39m
+2023-03-16 14:57:38:5738 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 14:57:38:5738 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 14:57:45:5745 [35mhttp[39m: [35mPUT update user id: 1. username change to updated[39m
+2023-03-16 14:57:45:5745 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-16 14:57:45:5745 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 0  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 0[39m
+[32m}[39m
+2023-03-16 14:57:45:5745 [32minfo[39m: [32min controller[object Object][39m
+2023-03-16 15:05:42:542 [35mhttp[39m: [35mPOST create a user with username: jin[39m
+2023-03-16 15:05:42:542 [32minfo[39m: [32mAdding user jin to the database[39m
+2023-03-16 15:06:19:619 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 15:06:19:619 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 15:06:28:628 [35mhttp[39m: [35mPOST create a user with username: seven[39m
+2023-03-16 15:06:39:639 [32minfo[39m: [32mAdding user seven to the database[39m
+2023-03-16 15:07:30:730 [35mhttp[39m: [35mPOST create a user with username: seven2[39m
+2023-03-16 15:08:10:810 [32minfo[39m: [32mAdding user seven2 to the database[39m
+2023-03-16 15:12:33:1233 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 15:12:33:1233 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 15:12:35:1235 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 15:12:54:1254 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-16 15:12:54:1254 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-16 15:15:16:1516 [35mhttp[39m: [35mPUT update user id: 1. username change to updated2[39m
+2023-03-16 15:15:16:1516 [32minfo[39m: [32maltering user updated2 to the database[39m
+2023-03-16 15:15:49:1549 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-16 15:16:35:1635 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:39:53:3953 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 09:39:53:3953 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 09:43:27:4327 [35mhttp[39m: [35mPOST create a user with username: 82[39m
+2023-03-17 09:43:27:4327 [32minfo[39m: [32mAdding user 82 to the database[39m
+2023-03-17 09:43:27:4327 [35mhttp[39m: [35mGET all users[39m
+2023-03-17 09:43:27:4327 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-17 09:43:27:4327 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-17 09:43:28:4328 [35mhttp[39m: [35mGET single user id: 11969449[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32m11969449[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32mGetting user 11969449 from the database[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:43:28:4328 [35mhttp[39m: [35mPUT update user id: 11969449. username change to updated[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:43:28:4328 [35mhttp[39m: [35mDelete update user id: 11969449. username change to 11969449[39m
+2023-03-17 09:43:28:4328 [32minfo[39m: [32mdelete user 11969449 to the database[39m
+2023-03-17 09:45:35:4535 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 09:45:35:4535 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 09:45:36:4536 [35mhttp[39m: [35mPOST create a user with username: 82[39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32mAdding user 82 to the database[39m
+2023-03-17 09:45:36:4536 [35mhttp[39m: [35mGET all users[39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-17 09:45:36:4536 [35mhttp[39m: [35mGET single user id: 11969450[39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32m11969450[39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32mGetting user 11969450 from the database[39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-17 09:45:36:4536 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:45:37:4537 [35mhttp[39m: [35mPUT update user id: 11969450. username change to updated[39m
+2023-03-17 09:45:37:4537 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-17 09:45:37:4537 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-17 09:45:37:4537 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:45:37:4537 [35mhttp[39m: [35mDelete update user id: 11969450. username change to 11969450[39m
+2023-03-17 09:45:37:4537 [32minfo[39m: [32mdelete user 11969450 to the database[39m
+2023-03-17 09:46:40:4640 [35mhttp[39m: [35mDelete update user id: 11969450. username change to 11969450[39m
+2023-03-17 09:46:40:4640 [32minfo[39m: [32mdelete user 11969450 to the database[39m
+2023-03-17 09:47:20:4720 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 09:47:20:4720 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 09:47:29:4729 [35mhttp[39m: [35mPOST create a user with username: 82[39m
+2023-03-17 09:47:29:4729 [32minfo[39m: [32mAdding user 82 to the database[39m
+2023-03-17 09:47:30:4730 [35mhttp[39m: [35mGET all users[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-17 09:47:30:4730 [35mhttp[39m: [35mGET single user id: 11969451[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32m11969451[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32mGetting user 11969451 from the database[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:47:30:4730 [35mhttp[39m: [35mPUT update user id: 11969451. username change to updated[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 09:47:30:4730 [35mhttp[39m: [35mDelete update user id: 11969451. username change to 11969451[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32mdelete user 11969451 to the database[39m
+2023-03-17 09:47:30:4730 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:01:15:115 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 10:01:15:115 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 10:01:17:117 [35mhttp[39m: [35mPOST create a user with username: 82[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32mAdding user 82 to the database[39m
+2023-03-17 10:01:17:117 [35mhttp[39m: [35mGET all users[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-17 10:01:17:117 [35mhttp[39m: [35mGET single user id: 11969452[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32m11969452[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32mGetting user 11969452 from the database[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:01:17:117 [35mhttp[39m: [35mPUT update user id: 11969452. username change to updated[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-17 10:01:17:117 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:01:18:118 [35mhttp[39m: [35mDelete update user id: 11969452. username change to 11969452[39m
+2023-03-17 10:01:18:118 [32minfo[39m: [32mdelete user 11969452 to the database[39m
+2023-03-17 10:01:18:118 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:07:19:719 [35mhttp[39m: [35mPOST create a user with username: john[39m
+2023-03-17 10:07:19:719 [32minfo[39m: [32mAdding user john to the database[39m
+2023-03-17 10:07:20:720 [35mhttp[39m: [35mGET all users[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32mGetting all users from the database[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32min controller[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][39m
+2023-03-17 10:07:20:720 [35mhttp[39m: [35mGET single user id: 11969453[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32m11969453[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32mGetting user 11969453 from the database[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32min model>>>>>[object Object][39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:07:20:720 [35mhttp[39m: [35mPUT update user id: 11969453. username change to updated[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32maltering user updated to the database[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32mResultSetHeader {[39m
+[32m  fieldCount: 0,[39m
+[32m  affectedRows: 1,[39m
+[32m  insertId: 0,[39m
+[32m  info: 'Rows matched: 1  Changed: 1  Warnings: 0',[39m
+[32m  serverStatus: 2,[39m
+[32m  warningStatus: 0,[39m
+[32m  changedRows: 1[39m
+[32m}[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:07:20:720 [35mhttp[39m: [35mDelete update user id: 11969453. username change to 11969453[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32mdelete user 11969453 to the database[39m
+2023-03-17 10:07:20:720 [32minfo[39m: [32min controller[object Object][39m
+2023-03-17 10:09:42:942 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 10:09:42:942 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 10:13:17:1317 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 10:13:17:1317 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 10:18:02:182 [35mhttp[39m: [35mPOST create a user with username: undefined[39m
+2023-03-17 10:18:43:1843 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 10:18:43:1843 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 10:18:45:1845 [35mhttp[39m: [35mPOST create a user with username: undefined[39m
+2023-03-17 10:20:21:2021 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 10:20:21:2021 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 10:20:22:2022 [35mhttp[39m: [35mDelete update user id: 10000. username change to 10000[39m
+2023-03-17 10:20:22:2022 [32minfo[39m: [32mdelete user 10000 to the database[39m

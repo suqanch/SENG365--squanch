@@ -1,3 +1,6 @@
+
+// >>>>>>>>>>>>>>>>>1. 例子 关于this的演示
+
 // let anotherperson = { firstname: 'Ben',
 //     surname: 'Adams',
 //     printfullname: function () {
@@ -15,6 +18,10 @@
 // }
 // anotherperson.printfirstname().printfullname()
 
+
+// >>>>>>>>>>>>>>>>>2. 例子 关于event loop的演示
+
+
 // const s = new Date().getSeconds();
 
 // setTimeout(function() {
@@ -29,5 +36,77 @@
 //   }
 // }
 
-setTimeout(() => console.log('first'), 0);
-console.log('second')
+// setTimeout(() => console.log('first'), 0);
+// console.log('second')
+
+// >>>>>>>>>>>>>>>>>3. 例子 关于promise的演示
+
+
+// let userLeft = false
+// let userWatchingCatMeme = false
+// function watchTutorialCallback(callback, errorCallback) {
+
+
+//   if (userLeft) {
+//     errorCallback({
+//       name: 'User Left', 
+//       message: ':('
+//     })
+//   } else if (userWatchingCatMeme) {
+//     errorCallback({
+//       name: 'User Watching Cat Meme',
+//       message: 'WebDevSimplified < Cat' 
+//     })
+//   } else {
+//     callback('Thumbs up and Subscribe')
+//   }
+// }
+// watchTutorialCallback(message => {
+//   console.log(message)
+// }, error => {
+//   console.log(error.name + ' ' + error.message)
+// })
+
+// function watchTutorialPromise() {
+//   // let userLeft = false
+//   // let userWatchingCatMeme = false
+//   return new Promise((resolve, reject) => {
+//     if (userLeft) {
+//       reject({
+//         name: 'User Left', 
+//         message: ':('
+//       })
+//     } else if (userWatchingCatMeme) {
+//       reject({
+//         name: 'User Watching Cat Meme',
+//         message: 'WebDevSimplified < Cat' 
+//       })
+//     } else {
+//       resolve('Thumbs up and Subscribe')
+//     }
+//   })
+// }
+
+
+
+// watchTutorialPromise().then(message => {
+//   console.log(message)
+// }).catch(error => {
+//   console.log(error.name + ' ' + error.message)
+// })
+
+// const recordVideoOne = new Promise((resolve, reject) => {
+//   resolve('Video 1 Recorded')
+// })
+
+// const result = {
+//   "id":119,
+//   "name":'77'
+// }
+
+// console.log(result[name]);
+
+const asyncFunc = async () => {
+	const response = await fetch(resource);
+   	const data = await response.json();
+}

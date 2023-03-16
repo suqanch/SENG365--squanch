@@ -14,6 +14,7 @@ exports.default = () => {
         next();
     });
     app.use(body_parser_1.default.json());
+    require('../app/routes/user.server.routes.js')(app);
     return app;
 };
 //# sourceMappingURL=express.js.map
