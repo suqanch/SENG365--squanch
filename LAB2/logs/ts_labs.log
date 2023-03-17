@@ -331,3 +331,11 @@
 2023-03-17 10:20:21:2021 [32minfo[39m: [32mListening on port: 3000[39m
 2023-03-17 10:20:22:2022 [35mhttp[39m: [35mDelete update user id: 10000. username change to 10000[39m
 2023-03-17 10:20:22:2022 [32minfo[39m: [32mdelete user 10000 to the database[39m
+2023-03-17 11:35:52:3552 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 11:35:52:3552 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 11:37:30:3730 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 11:37:30:3730 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 11:43:04:434 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 11:43:04:434 [32minfo[39m: [32mListening on port: 3000[39m
+2023-03-17 13:55:58:5558 [32minfo[39m: [32mSuccessfully connected to database[39m
+2023-03-17 13:55:58:5558 [32minfo[39m: [32mListening on port: 3000[39m

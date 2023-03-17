@@ -137,7 +137,7 @@ const remove = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const result = yield users.remove(parseInt(id, 10));
         logger_1.default.info("in controller" + result);
-        if (result.length === 0) {
+        if (result.affectedRows === 0) {
             res.status(404).send('User not found');
         }
         else {
