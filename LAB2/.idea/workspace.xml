@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85e26cab-de82-4568-a0ad-63bb584a873a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app/controllers/user.server.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app/controllers/user.server.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app/controllers/user.server.controller.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app/controllers/user.server.controller.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/ts_labs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ts_labs.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,11 @@
       <workItem from="1678916790309" duration="47000" />
       <workItem from="1678917149152" duration="33000" />
       <workItem from="1678920144347" duration="7084000" />
-      <workItem from="1678995980380" duration="12257000" />
+      <workItem from="1678995980380" duration="18206000" />
+      <workItem from="1679106894465" duration="3697000" />
+      <workItem from="1679262502903" duration="2210000" />
+      <workItem from="1679606970432" duration="605000" />
+      <workItem from="1679612976745" duration="247000" />
     </task>
     <servers />
   </component>
@@ -119,13 +120,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/app/models/user.server.model.ts</url>
           <line>32</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/app/controllers/user.server.controller.ts</url>
           <line>101</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
